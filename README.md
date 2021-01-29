@@ -1,18 +1,18 @@
 ### Bootstrap-Methods-STAT818D-S2021
 ## Course Outline
-# (1.) Monte Carlo Simulation versus Resampling/Bootstrap (1/25-27/2021)
+# (1.) Monte Carlo Simulation versus Resampling/Bootstrap 
 
 Introduction to Monte Carlo Simulation; definitions and objectives; statistical uses; simulations from
-real-data (empirical) distributions); resampling and `pseudo-data'; bootstrap.
+real-data (empirical) distributions); resampling and pseudo-data; bootstrap.
 
-# (2.) Statistical Functionals: Bias Reduction via Jackknife & Bootstrap (1/27-29/2021)
+# (2.) Statistical Functionals: Bias Reduction via Jackknife & Bootstrap 
 
 Definition of Statistical Functions; higher-order Delta Method and asymptotic expansion for bias;
 Jackknife for Bias reduction; Bootstrap for Bias Reduction
 
-# (3.) Reference Distributions: Bootstrap Hypothesis Tests and Confidence Intervals (2/1-3/2021)
+# (3.) Reference Distributions: Bootstrap Hypothesis Tests and Confidence Intervals
 
-# (4.) Bootstrap with Complicated Statistics (sometimes non-smooth) (2/3-5/2021)
+# (4.) Bootstrap with Complicated Statistics (sometimes non-smooth)
 
 # (5.) Proof of Consistency of Bootstrap Distributional Estimate for the Mean
 
